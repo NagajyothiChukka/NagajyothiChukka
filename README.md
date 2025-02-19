@@ -20,41 +20,18 @@ Here are some ideas to get you started:
 I'm an aspiring web engineer passionate about building intuitive, responsive, and accessible web applications. Currently, I'm honing my skills in front-end and back-end development while working on personal and open-source projects.
 
 ## 🚀 Skills & Technologies
-- 🌐 **Front-end:** HTML, CSS, JavaScript, React, Vue.js
-- 🏗️ **Back-end:** Node.js, Express, Django
-- 💾 **Databases:** MongoDB, PostgreSQL, Firebase
-- ⚙️ **Tools & Others:** Git, GitHub, VS Code, Docker, CI/CD
-
-## 🌱 Currently Learning
-- TypeScript for scalable applications
-- Advanced React patterns
-- Backend optimization and security best practices
+- 🌐 **Front-end:** HTML, CSS, JavaScript
+- 🏗️ **Back-end:** Node.js, Express
+- 💾 **Databases:** MongoDB
+- ⚙️ **Tools & Others:** Git, GitHub, VS Code
 
 ## 📌 Projects
-### 🔹 [Project Name](#)
-A short description of a project, its purpose, and key features.
-
-### 🔹 [Another Project](#)
-Another cool project with a brief summary and a link to the repository.
+### 🔹 [Asos clone](https://github.com/NagajyothiChukka/Asos_Project)
+ASOS Clone is a replica of the ASOS website, a leading British online retailer specializing in fashion and cosmetics. This project aims to recreate the core functionalities and layout of the ASOS platform, delivering an engaging and seamless e-commerce experience for users.
 
 ## 📫 Connect With Me
-- 🐦 [Twitter](#)
-- 💼 [LinkedIn](#)
-- 🌍 [Personal Website](#)
+- 💼 [LinkedIn](www.linkedin.com/in/nagajyothi-chukka-21aa9b2b1)
+- 🌍 [Portfolio](https://nagajyothichukka.github.io/Portfolio/)
 
-## 🤝 Let's Collaborate!
-I'm always looking for exciting projects and open-source contributions. Feel free to reach out or fork a project to contribute! 🚀
 
-## 🧑‍💻 Code Snippets
-Here’s a simple JavaScript function to reverse a string:
-
-```javascript
-function reverseString(str) {
-  return str.split('').reverse().join('');
-}
-
-console.log(reverseString("Hello, World!")); // Output: !dlroW ,olleH
-```
-
-Feel free to check out my repositories for more code snippets and projects!
 
