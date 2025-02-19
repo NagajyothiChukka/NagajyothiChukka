@@ -1,5 +1,3 @@
-## Hi👋, I am Nagajyothi Chukka
-
 <!--
 **NagajyothiChukka/NagajyothiChukka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +14,7 @@ Here are some ideas to get you started:
 -->
 # 💻 Aspiring Web Engineer
 
-## Hey there! 👋
+#### Hi👋, I am Nagajyothi Chukka
 I'm an aspiring web engineer passionate about building intuitive, responsive, and accessible web applications. Currently, I'm honing my skills in front-end and back-end development while working on personal and open-source projects.
 
 ## 🚀 Skills & Technologies
