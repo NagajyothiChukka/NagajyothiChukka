@@ -26,9 +26,8 @@ I'm an aspiring web engineer passionate about building intuitive, responsive, an
 - ⚙️ **Tools & Others:** Git, GitHub, VS Code
 
 ## 📌 Projects
-### 🔹 [Asos clone](https://github.com/NagajyothiChukka/Asos_Project)
+### 🔹 [Asos clone](https://github.com/NagajyothiChukka/Asos_Project/)
 ASOS Clone is a replica of the ASOS website, a leading British online retailer specializing in fashion and cosmetics. This project aims to recreate the core functionalities and layout of the ASOS platform, delivering an engaging and seamless e-commerce experience for users.
-🔗 **Live Demo:** [Asos Clone Website](https://github.com/NagajyothiChukka/Asos_Project)
 
 ## 📫 Connect With Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/nagajyothi-chukka-21aa9b2b1))
