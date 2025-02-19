@@ -32,7 +32,7 @@ ASOS Clone is a replica of the ASOS website, a leading British online retailer s
 ## 📫 Connect With Me
 - 💼 [LinkedIn](www.linkedin.com/in/nagajyothi-chukka-21aa9b2b1)
 - 🌍 [Portfolio](https://nagajyothichukka.github.io/Portfolio/)
-- 📧 [Email](nagajyotichukka@gmail.com)
+- 📧 [Email](mailto:nagajyotichukka@gmail.com)
 
 
 
