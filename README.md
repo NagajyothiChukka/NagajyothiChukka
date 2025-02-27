@@ -26,7 +26,8 @@ I'm an aspiring web engineer passionate about building intuitive, responsive, an
 ## 📌 Projects
 ### 🔹 [Asos clone](https://nagajyothichukka.github.io/Asos_Project/)
 ASOS Clone is a replica of the ASOS website, a leading British online retailer specializing in fashion and cosmetics. This project aims to recreate the core functionalities and layout of the ASOS platform, delivering an engaging and seamless e-commerce experience for users.
-
+### 🔹 [Dictionary App](https://tourmaline-snickerdoodle-99f959.netlify.app/)
+This is a Dictionary App, an easy-to-use tool that allows users to search for word definitions, parts of speech, examples, and antonyms. The goal of this project is to provide a seamless and interactive way to enhance vocabulary and language understanding. 
 ## 📫 Connect With Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/nagajyothi-chukka-21aa9b2b1)
 - 🌍 [Portfolio](https://nagajyothichukka.github.io/Portfolio/)
